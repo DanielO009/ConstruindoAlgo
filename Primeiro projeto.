@@ -1,0 +1,33 @@
+# ConstruindoAlgo
+Estou aprendendo..
+Só admirar meu primeiro projeto, com todo respeito.
+<--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="html-icon.ico" type="image/x-icon">
+
+    <title>Criando uma página</title>
+</head>
+<body>
+    <h1>Minhas Redes Sociais</h1>
+
+    <h2>Quem sou Eu?</h2>
+    <img src="foto-eu.jpg" alt="exercicio05/foto-eu">
+    <p>Meu nome é <b>Daniel Oliveira de Souza</b> tenho 23 ano, estou estudando Front-end e logo mais estarei estudando Back-end para que eu possa adentrar no mercado de trabalho na parte de programação e ser um ótimo programado.</p>
+
+    <h1>Como Falar Comigo?</h1>
+
+    <ul>
+        <li> <img src="imagem/icone-youtube.png" alt="imagem/icone-youtube.png"><a href="https://www.youtube.com/cursoemvideo" target="_blank" rel="external">/cursoemvideo</a> - Se inscreve lá no meu canal no Youtube</li>
+        <li><img src="imagem/icone-github.png" alt="imagem/icone-github.png"><a href="https://github.com/gustavoguanabara" target="_blank" rel="external">/gustavoguanabara</a> - Acessa meu repositório público no GitHub</li>
+        <li> <img src="imagem/icone-instagram.png" alt="imagem/icone-instagram.png"><a href="https://www.instagram.com/castelione.oliveira/" target="_blank" rel="external">/castelione.oliveira/</a> - Me segue lá no Instagram</li>
+        <li> <img src="imagem/icone-linkedin.png" alt="imagem/icone-linkedin.png"><a href="https://br.linkedin.com/in/guanabara" target="_blank" rel="external">/guanabara</a> - Me adiciona lá no LinkedIn</li>
+        <li> <img src="imagem/icone-twitter.png" alt="imagem/icone-twitter.png"> <a href="https://twitter.com/castelione00" target="_blank" rel="external">/castelione00</a> - Me segue lá no Twitter</li>
+        <li> <img src="imagem/icone-facebook.png" alt="imagem/icone-facebook.png"> <a href="https://www.facebook.com/trindent.menta" target="_blank" rel="external">/trindent-menta</a> - Me acompanha lá no Facebook</li>
+    </ul>
+</body>
+</html>
+
